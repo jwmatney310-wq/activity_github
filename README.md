@@ -1,2 +1,2 @@
-# hello-world![alt text]
+# hello-world!
 (activity_githubPhoto.jpg)
